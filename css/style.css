@@ -27,3 +27,33 @@
     #autore{
         color: rgb(22, 158, 236);
     }
+
+#tim-img{
+    margin-top: 20px;
+}
+    #ph-descrizione{
+        font-size: 10px;
+    }
+
+.testo-importante{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+table{
+    border-collapse: collapse;
+}
+    th{
+        text-align: left;
+        background-color: cornflowerblue;
+        color: white;
+    }
+    td, th{
+        width: 30%;
+    }
+    .dispari{
+        background-color: rgb(110, 202, 245);
+    }
