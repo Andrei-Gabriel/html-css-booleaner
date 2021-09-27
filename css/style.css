@@ -1,4 +1,4 @@
-/* @import "style2.css"; */
+@import "style2.css";
 
 /* header ------------------------------------------*/
 .head{
@@ -63,7 +63,7 @@ table{
 /* footer ----------------------------------------------- */
 h3{
     color: grey;
-    margin-bottom: 5px;
+    margin-bottom: 0;
 }
 .con-img{
     height: 150px;
